@@ -1,0 +1,14 @@
+Sala: 2a | Nome: Nickolas | RA: 223243224
+Sala: 2a | Nome: João | RA: 223452452435245
+Sala: 2a | Nome: João Gabriel | RA: 22345245
+Sala: 2a | Nome: Zé da chinela | RA: 123456789
+Sala: 2b | Nome: Rodriguinho | RA: 111111111
+Sala: 2b | Nome: Nicole | RA: 22222222
+Sala: 2b | Nome: Rafael | RA: 33333333333
+Sala: 2b | Nome: Usopp | RA: 44444444444
+Sala: 2b | Nome: Vinsmoke Sanji | RA: 55555555555
+Sala: 2b | Nome: Tony Tony Chopper | RA: 666666666666
+Sala: 2b | Nome: Nico Robin | RA: 7777777777
+Sala: 2b | Nome: Franky | RA: 888888888
+Sala: 2b | Nome: Brook | RA: 9999999999
+Sala: 2b | Nome: Jimbe | RA: 101010101010
